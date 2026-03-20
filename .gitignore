@@ -1,0 +1,10 @@
+/.settings/
+/Debug/
+/Release/
+*.fmx
+.project
+.cproject
+.mxproject
+*.xml
+*.cfg
+*.launch
